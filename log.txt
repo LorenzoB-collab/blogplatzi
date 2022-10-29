@@ -1,26 +1,26 @@
 adobe xd
-bluestacks
+*bluestacks
 crystal disk info
-discord
+*discord
 figma client
-filezilla
-focus to do
-git
-chrome
+*filezilla
+*focus to do
+*git
+*chrome
 inskcape
-g hub logitech
-malwarebytes
-vs code
-mozilla
+*g hub logitech
+*malwarebytes
+*vs code
+*mozilla
 msi afterburner
-drivers de nvidia
+*drivers de nvidia
 opera gx
-putty
+*putty
 redragon drivers keyboard
 terminal app -> app store
 vlc media player
-vm ware player
-xampp
-winrar
+*vm ware player
+*xampp
+*winrar
 dell audio
 
